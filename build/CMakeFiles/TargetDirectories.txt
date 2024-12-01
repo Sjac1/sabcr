@@ -1,0 +1,3 @@
+/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/build/CMakeFiles/plantilla.dir
+/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/build/CMakeFiles/edit_cache.dir
+/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/build/CMakeFiles/rebuild_cache.dir
