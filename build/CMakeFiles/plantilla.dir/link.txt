@@ -1,1 +1,1 @@
-/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/plantilla.dir/link.d CMakeFiles/plantilla.dir/resource/hola.cpp.o CMakeFiles/plantilla.dir/src/main.cpp.o -o plantilla  /usr/lib/libraylib.so -lc -lpthread -ldl -L/usr/lib -lraylib
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/plantilla.dir/link.d CMakeFiles/plantilla.dir/resource/hola.cpp.o CMakeFiles/plantilla.dir/src/main.cpp.o -o plantilla  -Wl,-rpath,/home/linuxbrew/.linuxbrew/lib /home/linuxbrew/.linuxbrew/lib/libraylib.so -lc -lpthread -ldl

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/resource/hola.cpp" "CMakeFiles/plantilla.dir/resource/hola.cpp.o" "gcc" "CMakeFiles/plantilla.dir/resource/hola.cpp.o.d"
-  "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/src/main.cpp" "CMakeFiles/plantilla.dir/src/main.cpp.o" "gcc" "CMakeFiles/plantilla.dir/src/main.cpp.o.d"
+  "/home/sjacker/cosas/sabcr/resource/hola.cpp" "CMakeFiles/plantilla.dir/resource/hola.cpp.o" "gcc" "CMakeFiles/plantilla.dir/resource/hola.cpp.o.d"
+  "/home/sjacker/cosas/sabcr/src/main.cpp" "CMakeFiles/plantilla.dir/src/main.cpp.o" "gcc" "CMakeFiles/plantilla.dir/src/main.cpp.o.d"
   "" "plantilla" "gcc" "CMakeFiles/plantilla.dir/link.d"
   )
 

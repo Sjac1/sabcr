@@ -1,14 +1,14 @@
 [
 {
-  "directory": "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/build",
-  "command": "/usr/bin/c++  -I/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/include -std=gnu++17 -I/usr/include -o CMakeFiles/plantilla.dir/resource/hola.cpp.o -c /home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/resource/hola.cpp",
-  "file": "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/resource/hola.cpp",
+  "directory": "/home/sjacker/cosas/sabcr/build",
+  "command": "/usr/bin/c++  -I/home/sjacker/cosas/sabcr/include -isystem /home/linuxbrew/.linuxbrew/include -std=gnu++17 -o CMakeFiles/plantilla.dir/resource/hola.cpp.o -c /home/sjacker/cosas/sabcr/resource/hola.cpp",
+  "file": "/home/sjacker/cosas/sabcr/resource/hola.cpp",
   "output": "CMakeFiles/plantilla.dir/resource/hola.cpp.o"
 },
 {
-  "directory": "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/build",
-  "command": "/usr/bin/c++  -I/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/include -std=gnu++17 -I/usr/include -o CMakeFiles/plantilla.dir/src/main.cpp.o -c /home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/src/main.cpp",
-  "file": "/home/sjacker/Code_core/Plantilla-C-Cpp/sabcr/src/main.cpp",
+  "directory": "/home/sjacker/cosas/sabcr/build",
+  "command": "/usr/bin/c++  -I/home/sjacker/cosas/sabcr/include -isystem /home/linuxbrew/.linuxbrew/include -std=gnu++17 -o CMakeFiles/plantilla.dir/src/main.cpp.o -c /home/sjacker/cosas/sabcr/src/main.cpp",
+  "file": "/home/sjacker/cosas/sabcr/src/main.cpp",
   "output": "CMakeFiles/plantilla.dir/src/main.cpp.o"
 }
 ]

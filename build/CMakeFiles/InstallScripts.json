@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sjacker/cosas/sabcr/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
